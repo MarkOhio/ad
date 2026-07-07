@@ -18,7 +18,7 @@
 
   // ─── CONFIG ────────────────────────────────────────────────────────────────
   // Replace these two values before deploying.
-  const ADS_JSON_URL   = "https://YOUR_SUPABASE_PROJECT.supabase.co/storage/v1/object/public/ad-assets/ads.json";
+  const ADS_JSON_URL   = "https://dnxsinundjcplzbddmtx.supabase.co/storage/v1/object/public/ad-assets/ads.json";
   const CLICK_API_URL  = "https://de-mark-9fcsiixzv-markohios-projects.vercel.app/api/click";
   // ───────────────────────────────────────────────────────────────────────────
 
